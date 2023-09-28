@@ -1,4 +1,4 @@
-new TypeIt("#tqyxhj", {
+new TypeIt("#AndyPatty", {
         loop: true,
         cursorSpeed: 1000,
         speed: 100
@@ -12,7 +12,7 @@ new TypeIt("#tqyxhj", {
     .pause(3000)
     .go();
 
-new TypeIt('#talkToXHJ', {
+new TypeIt('#talkToPatty', {
     lifeLike: true,
     cursorSpeed: 1000,
     waitUntilVisible: true,
